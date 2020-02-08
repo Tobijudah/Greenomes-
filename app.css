@@ -1,0 +1,40 @@
+body {
+	background: #fff;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+#mainNav .navbar-brand {
+	font-family: 'Source Serif Pro', serif;
+	font-size: 1.9rem;
+	color: #048711;
+}
+
+#mainNav .nav-link {
+	color: black;
+	font-size: 1.4rem;
+	font-weight: 100;
+}
+
+#mainNav .nav-link:hover {
+	color: #048711;
+}
+
+h2 {
+	font-family: 'Source Serif Pro', serif;
+	font-size: 1.9rem;
+	color: black;
+}
+
+span {
+	color: #048711
+}
+
+#mainNav a span {
+	color: black;
+}
+
+.navbar.scrolled {
+    background: #fff;
+    transition: background 500ms;
+}
