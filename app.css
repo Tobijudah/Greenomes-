@@ -21,6 +21,11 @@ body {
 	color: #048711;
 }
 
+h1 {
+	font-family: 'Source Serif Pro', serif;
+	color: black;
+}
+
 h2 {
 	font-family: 'Source Serif Pro', serif;
 	font-size: 1.9rem;
@@ -49,4 +54,3 @@ a {
     box-shadow: none;
 	border-width: 0px;
 }
-
