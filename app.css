@@ -1,6 +1,7 @@
 body {
 	background: #fff;
 	font-family: 'Montserrat', sans-serif;
+	overflow-x: hidden; !important;
 }
 
 
@@ -34,7 +35,3 @@ span {
 	color: black;
 }
 
-.navbar.scrolled {
-    background: #fff;
-    transition: background 500ms;
-}
